@@ -1,3 +1,7 @@
+**This repository has been archived and is no longer maintained. For future development please go to:**
+
+https://github.com/ni/niveristand-scan-engine-fxp-libraries
+
 # NI VeriStand Scan Engine FXP Libraries
 
 These are the source VIs used to script and build (into an LLB) the FXP UDV read and write cases used inside the Scan Engine Custom Device.
